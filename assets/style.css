@@ -92,8 +92,13 @@ html, body {
   color: black;
 }
 
+.fa-file {
+  color: blue;
+}
+
 .fa-github:hover, 
 .fa-linkedin:hover,
+.fa-file:hover,
 .fa-youtube:hover {
   color: #d5d5d5;
 }
